@@ -1,0 +1,41 @@
+---
+title: "Some Things I Learned This Quarter"
+subtitle: "FISH 549"
+author: "Olivia Bible (obible@uw.edu)"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+
+## About Me | Personal
+
+- State where I was born: Massachusetts
+- Favorite foods: bulgogi, chocolate, lasagna, loco moco, strawberries, tofu
+- Favorite animals: chameleon, coral, golden retriever, sea star
+
+## About Me (continued) | Academic
+
+- Undergraduate institution: Boston University
+- Undergraduate major: Marine Science
+
+
+# Data Science
+
+## Course Topics | 3 Things I Enjoyed Learning About
+
+1) Forking a repository in GitHub allows the user to make a copy of an existing repository without directly modifying it, but it can later be merged into the existing repository with any changes.
+2) Ecological Metadata Language (EML) is a type of XML syntax that includes relevant aspects of ecological data, such as information about data collection, units of measurement, etc.
+3) Structural Query Language (SQL) is used to create and edit relational databases in systems such as PostgreSQL. 
+
+## Course Topics | 3 Things I'd Like to Learn More About
+
+1) I found the lecture about ethics in data science very interesting, and I'd love to learn about more strategies for improving equity within the data science field.
+2) Since I work with spatial data (mostly with GIS at the moment) I'd love to learn more about applications of the leaflet R package and how to integrate it with Shiny apps.
+3) I'd like to learn more LaTeX to format my RMarkdown documents more professionally. 
+
+## {data-background=drone1.png data-background-size=cover}
