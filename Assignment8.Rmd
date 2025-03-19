@@ -3,6 +3,7 @@ title: "Some Things I Learned This Quarter"
 subtitle: "FISH 549"
 author: "Olivia Bible (obible@uw.edu)"
 output: ioslides_presentation
+output_dir: "docs"
 ---
 
 ```{r setup, include=FALSE}
